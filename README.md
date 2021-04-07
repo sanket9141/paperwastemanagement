@@ -1,0 +1,2 @@
+# paperwastemanagement
+BE mini project 
